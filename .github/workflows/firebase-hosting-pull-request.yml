@@ -13,4 +13,4 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_EXPENSE_TRACKER_D14E8 }}'
-          projectId: expense-tracker-d14e8
+          projectId: expenses-8512a
